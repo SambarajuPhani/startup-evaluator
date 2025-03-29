@@ -7,4 +7,4 @@ python-dotenv==1.1.0
 crewai-tools==0.38.1
 azure-ai-documentintelligence==1.0.2
 langgraph==0.3.21
-python==3.11.9
+
